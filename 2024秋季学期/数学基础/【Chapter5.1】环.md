@@ -16,8 +16,6 @@ $$a\cdot(b\cdot c)=(a\cdot b)\cdot c$$
 则称 R 为环。
 
 
-
-
 ## 扩展性质：
 此外，如果 R 还满足
 1. 乘法交换，即对于任意的 $a,b$，满足 $a\times b=b\times a$,则称 $R$ 为交换环
