@@ -1,1 +1,0 @@
->注意，MD 5 哈希函数已经不安全，一般的 MD5 的碰撞都可以在如下网上获取到 https://www.cmd5.com/ ， http://www.ttmd5.com/ 。同时，SHA 1 也已经不安全，已经可以构造出两个有着相同 hash 值的 pdf 文件
